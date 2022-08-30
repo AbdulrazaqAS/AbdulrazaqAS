@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulrazaqAS
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on JavaScript tutorials
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning some languages
+- 💞️ I’m looking to collaborate on java projects.
 - 📫 How to reach me abdulrazaq2621@gmail.com
 
 <!---
