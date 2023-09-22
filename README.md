@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AbdulrazaqAS
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning some languages
-- 💞️ I’m looking to collaborate on java projects.
+- 💞️ I’m looking to collaborate on Python or C#(Unity) projects.
 - 📫 How to reach me abdulrazaq2621@gmail.com
 
 <!---
