@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AbdulrazaqAS
-- 👀 I’m interested in programming
-- 💞️ I’m looking to collaborate on Python or C#(Unity) projects.
-- 📫 How to reach me abdulrazaq2621@gmail.com
+- 👋 Hi, I’m AbdulrazaqAS
+- 💞️ I’m looking to collaborate on Python/Pygame projects.
+- 📫 Reach me at abdulrazaq2621@gmail.com
 
 <!---
 AbdulrazaqAS/AbdulrazaqAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
